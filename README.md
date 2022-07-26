@@ -1,6 +1,6 @@
-# To Do To Do
+# To Do
 
-**To Do To Do** - web application for creating and edit task list.
+**To Do** - web application for creating and edit task list.
 
 ## Screenshots
 ### Main page
